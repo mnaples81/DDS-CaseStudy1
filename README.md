@@ -1,1 +1,2 @@
-# DDS-CaseStudy1
+# Doing Data Science-CaseStudy1
+## By Marc Naples
